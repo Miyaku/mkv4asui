@@ -12,7 +12,6 @@ app/AsUI.apk
 app/As/As.apk
 app/AsUI/AsUI.apk
 app/ViPER4Android/ViPER4Android.apk
-app/ViPER4Android/v4a.apk
 app/ViPER4Android/lib/arm/libV4AJniUtils.so
 lib/soundfx/libv4a.so
 lib/libV4AJniUtils.so
