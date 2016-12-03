@@ -3,6 +3,8 @@
 This a stock <a href="https://github.com/Miyaku/mkv4a">ViPER4Android on MoKee ROM</a> & Dolby for SDK22+<br />
 SDK -21 use ViPER4Android default<br />
 
+<b>Update: The New build aslo ported to support on SDK 19+ KK-N (v4a)</b>
+
 Buid with <3 by Me <br />
 This will NOT replace your audio_conf, the code will be patch in your audio conf.<br />
 
